@@ -16,6 +16,7 @@ The guide is delivered as an interactive Jupyter Notebook (.ipynb), making it ea
 - Troubleshooting common issues
 
 📁 Repository Contents
+
 ├── openmc_conda_install_guide.ipynb   # Main installation guide
 
 └── README.md                          # Project description
