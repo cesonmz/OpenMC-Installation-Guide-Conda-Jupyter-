@@ -14,30 +14,31 @@ The guide is delivered as an interactive Jupyter Notebook (.ipynb), making it ea
 - Verifying the installation
 - Optional Jupyter kernel setup
 - Troubleshooting common issues
+
 📁 Repository Contents
 ├── openmc_conda_install_guide.ipynb   # Main installation guide
 └── README.md                          # Project description
 
-# Supported Platforms
+## Supported Platforms
 ✅ Linux (recommended)
 ✅ macOS
 ⚠️ Windows (via WSL2 only)
 
 OpenMC is not natively supported on Windows — WSL2 is strongly recommended.
 
-# Requirements
+## Requirements
 Conda (Miniconda or Anaconda)
 ≥ 4 GB RAM (8 GB recommended)
 ≥ 5 GB free disk space
 Internet connection
 
-# Who Is This For?
+## Who Is This For?
 * Nuclear engineering students
 * Researchers working with Monte Carlo simulations
 * Anyone new to OpenMC who wants a smooth setup
 
 
-# Feel free to:
+## Feel free to:
 - open issues
 - suggest improvements
 - submit pull requests
